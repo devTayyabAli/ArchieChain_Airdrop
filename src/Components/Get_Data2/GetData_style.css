@@ -1,0 +1,31 @@
+.claim_card {
+    padding: 30px 20px;
+    background-color: #45a247;
+    border-radius: 10px;
+}
+
+.claim_card:hover {
+    border: 3px solid #000;
+}
+.landing_main {
+    padding: 60px 0px;
+}
+
+.claim_btn {
+    /* background-color: #205721; */
+    padding: 10px 15px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+.claim_btn:hover {
+    background-color: transparent !important;
+    border: 2px solid #0000;
+    font-weight: bold;
+
+}
